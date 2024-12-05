@@ -2,6 +2,7 @@
 
 ## 專案描述
 一個房屋資訊爬蟲系統，可以自動從網路上蒐集房屋出售資訊，並將篩選後的資料整合到 Google Sheets。
+Google sheet: https://docs.google.com/spreadsheets/d/1mhNnsbtlpaU_UYieQ4JJoS7ryBUhRh28ioyTo3cCDQU/edit?usp=sharing  
 
 ## 主要功能
 - 使用 Selenium 進行網頁爬蟲
@@ -23,7 +24,7 @@
 ## 輸出
 - 螢幕輸出資訊
     ![](./images/outputsample.png)
-- 篩選新竹 去除偏遠地區
+- google sheet 資訊
     ![](./images/googlesheetoutput.png)
 
 ## 流程圖
